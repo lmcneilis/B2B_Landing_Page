@@ -114,3 +114,9 @@
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fffcfc', endColorstr='#414042',GradientType=1 ); /* IE6-9 */
 
 }
+
+@media (max-width: 768px) {
+    .purple-split, .purple-split-reverse, .grey-1-split, .grey-2-split, .grey-3-split, .grey-4-split, .grey-1-split-reverse, .grey-2-split-reverse, .grey-3-split-reverse, .grey-4-split-reverse {
+        background: #fff;
+    }
+}
